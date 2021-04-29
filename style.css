@@ -12,7 +12,6 @@ body{
     display: flex;
     flex-direction: column;
     background-image: url(images/bg-intro-mobile.png);
-    height: 100vh
     
 }
 
@@ -150,7 +149,7 @@ span{
 @media(min-width: 1000px){
     .container{
         background-image: url(images/bg-intro-desktop.png);
-        height: 115vh;
+        height: 100vh;
         
     }
     
