@@ -12,6 +12,7 @@ body{
     display: flex;
     flex-direction: column;
     background-image: url(images/bg-intro-mobile.png);
+    height: 100vh
     
 }
 
